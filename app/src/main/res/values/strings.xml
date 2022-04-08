@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APIJSONParsing</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail Id</string>
+    <string name="phone">Phone</string>
+    <string name="image_url">Image URL</string>
+    <string name="image_thumbnailUrl">Image Thumbnail URL</string>
+    <string name="albumId">Album ID</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+</resources>
